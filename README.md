@@ -17,9 +17,9 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ### Front-end
 
 The following layout should be developed
-![layout](layout-onepage.png)
+![layout](https://github.com/cubonetwork/fullstack-challenge/blob/master/layout-onepage.png)
 
-[You can download the PSD here](layout-onepage.psd)
+[You can download the PSD here](https://github.com/cubonetwork/fullstack-challenge/blob/master/layout-onepage.png)
 
 - You can use the libs and frameworks that make you more comfortable;
 - All fields are required in the form;
